@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/Awal.png" alt="Ghost-OSINT Banner" />
+  <img src="/img/Awal.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #ff1100;">
 </p>
 
 # 👻 Ghost-OSINT v0.1
