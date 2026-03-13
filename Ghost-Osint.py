@@ -7,7 +7,7 @@ import time
 import random
 from collections import Counter
 
-# --- KONFIGURASI ESTETIKA (RED & BLACK PREDATOR) ---
+
 RED = "\033[1;31m"
 WHITE = "\033[1;37m"
 CYAN = "\033[1;36m"

@@ -11,10 +11,6 @@ _Tool pencarian jejak digital multiguna untuk profesional keamanan siber_
 [![GitHub stars](https://img.shields.io/github/stars/Sneijderlino/Ghost-Osint-V.0?style=social)](https://github.com/Sneijderlino/Ghost-Osint-V.0/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Sneijderlino/Ghost-Osint-V.0?style=social)](https://github.com/Sneijderlino/Ghost-Osint-V.0/network/members)
 
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=800&height=50&lines=Ghost+Overlord+Mengintai+Jejak+Anda.;Melacak+Nama+%2F+Akun+Dengan+AIOHTTP.;Cyber+OSINT+Paling+Hitam+dan+Merah;Selamat+Datang+di+Ruang+Bermimpi)](https://git.io/typing-svg)
 
 ```
@@ -220,4 +216,5 @@ Proyek ini dirilis di bawah lisensi [MIT](LICENSE).
 - Email: `sneijderlino@example.com`
 
 Selamat menjelajah jejak digital bersama Ghost-OSINT! 👻
+
 # Ghost-Osint-V.0
