@@ -1,0 +1,26 @@
+{
+  "Facebook": { "url": "https://www.facebook.com/{}" },
+  "Instagram": { "url": "https://www.instagram.com/{}" },
+  "GitHub": { "url": "https://github.com/{}" },
+  "Reddit": { "url": "https://www.reddit.com/user/{}" },
+  "Twitter": { "url": "https://twitter.com/{}" },
+  "Pinterest": { "url": "https://www.pinterest.com/{}" },
+  "Tumblr": { "url": "https://{}.tumblr.com" },
+  "Steam": { "url": "https://steamcommunity.com/id/{}" },
+  "SoundCloud": { "url": "https://soundcloud.com/{}" },
+  "Spotify": { "url": "https://open.spotify.com/user/{}" },
+  "Medium": { "url": "https://medium.com/@{}" },
+  "Vimeo": { "url": "https://vimeo.com/{}" },
+  "Twitch": { "url": "https://www.twitch.tv/{}" },
+  "TikTok": { "url": "https://www.tiktok.com/@{}" },
+  "Lichess": { "url": "https://lichess.org/@/{}" },
+  "1337x": {
+    "url": "https://www.1337x.to/user/{}/"
+  },
+  "2Dimensions": {
+    "url": "https://2Dimensions.com/a/{}"
+  },
+  "7Cups": {
+    "url": "https://www.7cups.com/@{}"
+  }
+}
